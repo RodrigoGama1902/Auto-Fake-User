@@ -23,8 +23,8 @@ bl_info = {
     "description": "Automatically set Fake User to enabled data blocks when saving",
     "author": "Rodrigo Gama",
     "version": (0, 1, 0),
-    "blender": (3, 2, 0),
-    "location": "View3D",
+    "blender": (3, 3, 0),
+    "location": "View3D > Sidebar > Tool Tab > Auto Fake User",
     "category": "3D View"}
 
 
